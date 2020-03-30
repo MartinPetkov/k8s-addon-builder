@@ -31,7 +31,7 @@
 
 [[constraint]]
   name = "github.com/spf13/cobra"
-  version = "0.0.3"
+  version = "0.0.7"
 
 # See https://github.com/golang/dep/issues/1890#issuecomment-404036309.
 [[override]]
